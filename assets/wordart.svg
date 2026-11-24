@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="130" viewBox="0 0 800 130">
+<defs>
+<linearGradient id="rb" x1="0" y1="0" x2="0.5" y2="0" spreadMethod="repeat">
+<stop offset="0" stop-color="#ff0000"/><stop offset="0.17" stop-color="#ff9900"/><stop offset="0.33" stop-color="#ffee00"/>
+<stop offset="0.5" stop-color="#33dd00"/><stop offset="0.67" stop-color="#0099ff"/><stop offset="0.83" stop-color="#9933ff"/><stop offset="1" stop-color="#ff0000"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="0.5 0" dur="1.5s" repeatCount="indefinite"/>
+</linearGradient>
+</defs>
+<g>
+<animateTransform attributeName="transform" type="rotate" values="-2 400 65;2 400 65;-2 400 65" dur="2s" repeatCount="indefinite"/>
+<text x="404" y="84" text-anchor="middle" font-family="Comic Sans MS, Comic Neue, Chalkboard SE, cursive" font-size="46" font-weight="bold" fill="#000" opacity="0.45">BIENVENUE SUR MON PROFIL</text>
+<text x="400" y="80" text-anchor="middle" font-family="Comic Sans MS, Comic Neue, Chalkboard SE, cursive" font-size="46" font-weight="bold" fill="url(#rb)" stroke="#000" stroke-width="2">BIENVENUE SUR MON PROFIL
+<animate attributeName="font-size" values="46;50;46" dur="1s" repeatCount="indefinite"/></text>
+</g>
+<text x="263" y="28" font-size="24" fill="#fff6a8" opacity="0">✦<animate attributeName="opacity" values="0;1;0" dur="0.97s" begin="0.91s" repeatCount="indefinite"/></text>
+<text x="614" y="12" font-size="22" fill="#fff6a8" opacity="0">✦<animate attributeName="opacity" values="0;1;0" dur="1.51s" begin="0.7s" repeatCount="indefinite"/></text>
+<text x="259" y="110" font-size="17" fill="#fff6a8" opacity="0">✦<animate attributeName="opacity" values="0;1;0" dur="1.0s" begin="1.29s" repeatCount="indefinite"/></text>
+<text x="670" y="111" font-size="15" fill="#fff6a8" opacity="0">✦<animate attributeName="opacity" values="0;1;0" dur="1.34s" begin="1.01s" repeatCount="indefinite"/></text>
+<text x="183" y="96" font-size="18" fill="#fff6a8" opacity="0">✦<animate attributeName="opacity" values="0;1;0" dur="1.38s" begin="1.24s" repeatCount="indefinite"/></text>
+<text x="504" y="107" font-size="21" fill="#fff6a8" opacity="0">✦<animate attributeName="opacity" values="0;1;0" dur="0.99s" begin="1.2s" repeatCount="indefinite"/></text>
+<text x="157" y="21" font-size="24" fill="#fff6a8" opacity="0">✦<animate attributeName="opacity" values="0;1;0" dur="0.74s" begin="0.33s" repeatCount="indefinite"/></text>
+<text x="466" y="104" font-size="19" fill="#fff6a8" opacity="0">✦<animate attributeName="opacity" values="0;1;0" dur="1.11s" begin="0.58s" repeatCount="indefinite"/></text>
+<text x="566" y="28" font-size="14" fill="#fff6a8" opacity="0">✦<animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="1.02s" repeatCount="indefinite"/></text>
+<text x="306" y="100" font-size="23" fill="#fff6a8" opacity="0">✦<animate attributeName="opacity" values="0;1;0" dur="1.56s" begin="1.36s" repeatCount="indefinite"/></text>
+<text x="126" y="101" font-size="24" fill="#fff6a8" opacity="0">✦<animate attributeName="opacity" values="0;1;0" dur="0.88s" begin="0.1s" repeatCount="indefinite"/></text>
+<text x="515" y="12" font-size="18" fill="#fff6a8" opacity="0">✦<animate attributeName="opacity" values="0;1;0" dur="1.01s" begin="0.23s" repeatCount="indefinite"/></text>
+<text x="457" y="23" font-size="20" fill="#fff6a8" opacity="0">✦<animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="1.14s" repeatCount="indefinite"/></text>
+<text x="755" y="105" font-size="18" fill="#fff6a8" opacity="0">✦<animate attributeName="opacity" values="0;1;0" dur="1.11s" begin="1.5s" repeatCount="indefinite"/></text>
+</svg>
