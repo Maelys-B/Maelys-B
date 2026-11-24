@@ -1,7 +1,7 @@
 <!-- Si tu lis ce commentaire, tu es allé·e trop loin. Fais demi-tour. -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c08552,50:dab49d,100:8c5a3c&height=200&section=header&text=Maelys&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=z%C3%A9ro%20caf%C3%A9%20%E2%80%A2%20100%25%20chill%20%E2%80%A2%200%25%20comp%C3%A9tences%20en%20centrage%20de%20div&descAlignY=58&descSize=15" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c08552,50:dab49d,100:8c5a3c&height=200&section=header&text=Maelys&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=100%25%20chill%20%E2%80%A2%200%25%20comp%C3%A9tences%20en%20centrage%20de%20div&descAlignY=58&descSize=15" />
 </p>
 
 <p align="center">
@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maelys-B&label=Visiteurs%20perdus&color=c08552&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Niveau%20de%20chill-9000%25-8c5a3c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Caf%C3%A9-0%25%20(je%20tourne%20au%20chaos)-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bugs-%E2%88%9E-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Statut-assise%20dans%20une%20rivi%C3%A8re-2ea44f?style=for-the-badge" />
 </p>
@@ -51,7 +50,7 @@ Aristide a déjà mergé en prod un vendredi à 17h59. Aristide n'a aucun regret
 const maelys = {
   espèce: "humaine (non confirmé par la science)",
   habitat: "sous un plaid, à 2h du mat, avec 47 onglets ouverts",
-  carburant: "pas de café. juste du chaos et de la pure audace",
+  carburant: "du chaos et de la pure audace",
   languesMachines: ["JavaScript", "TypeScript", "PHP", "SQL", "Python", "Java (on se vouvoie)"],
   superPouvoir: "trouver un point-virgule manquant en 4h au lieu de 5",
   faiblesse: "centrer une div. et les escaliers.",
@@ -73,7 +72,7 @@ const maelys = {
 | 🟢 Node.js + Express | 🔵 Rare | Il ne me juge pas. Lui. |
 | 🐘 PHP | 🟢 Commun | J'ai vu des choses. Des choses en PHP. |
 | 🐍 Python | 🔵 Rare | Indentation 1 – Maelys 0 |
-| ☕ Java | ⚪ Cassé | Ironique pour quelqu'un qui boit pas de café |
+| 🫠 Java | ⚪ Cassé | On se croise, on se salue, on se comprend pas |
 | 🍊 Une orange | 🟡 Légendaire | Aucune utilité. Je la garde quand même. |
 | 🧦 Chaussette seule | 🟤 Maudit | Sa jumelle est partie avec mes `node_modules` |
 
@@ -125,7 +124,6 @@ Vendredi    ░░░░░░░░░░░░░░░░░░░░    0%  
 ~ Modif : sommeil passé de "nécessaire" à "optionnel"
 - Suppression : 47 console.log("ici") (il en reste 312)
 - Suppression : ma confiance en Java
-- Suppression : le café (il n'a jamais existé)
 ! Bug connu : la div n'est toujours pas centrée
 ! Bug connu : explique super bien le code dans sa tête, beaucoup moins à l'oral
 ! Bug connu : Aristide a accès en écriture au repo
