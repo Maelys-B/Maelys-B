@@ -151,7 +151,7 @@ R : La sieste.
 ## 📊 Stats (ne jugez pas)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maelys-B&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maelys-B&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maelys-B&layout=compact&theme=gruvbox&hide_border=true" />
 </p>
 
