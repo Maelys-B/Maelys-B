@@ -64,13 +64,20 @@ Aristide a déjà mergé en prod un vendredi à 17h59. Aristide n'a aucun regret
 | 🟢 Node.js + Express | 🔵 Rare | Il ne me juge pas. Lui. |
 | 🐘 PHP + WordPress/Elementor | 🟢 Commun | J'ai déjà vu des choses. Des choses avec Elementor. |
 | 🐍 Python | 🔵 Rare | Indentation 1 – Maelys 0 |
-| 🫠 Java | ⚪ Cassé | On se croise, on se salue, on se comprend pas |
+| 🫠 Java | ⚪ Cassé | On se vouvoie. |
 | 🍊 Une orange | 🟡 Légendaire | Aucune utilité. Je la garde quand même. |
-| 🧦 Chaussette seule | 🟤 Maudit | Sa jumelle est partie avec mes `node_modules` |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,php,mysql,python,java,git,github,vscode&perline=7" />
 </p>
+
+---
+
+## 💬 Phrases cultes
+
+> « attends, je relance le serveur »
+
+> « nan mais ça marchait y'a 5 minutes »
 
 ---
 
