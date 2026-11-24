@@ -47,23 +47,6 @@ Aristide a déjà mergé en prod un vendredi à 17h59. Aristide n'a aucun regret
 
 ---
 
-## 🧃 `whoami`
-
-```js
-const maelys = {
-  espèce: "humaine (non confirmé par la science)",
-  habitat: "sous un plaid, à 2h du mat, avec 47 onglets ouverts",
-  carburant: "du chaos et de la pure audace",
-  languesMachines: ["JavaScript", "TypeScript", "PHP", "SQL", "Python", "Java (on se vouvoie)"],
-  superPouvoir: "trouver un point-virgule manquant en 4h au lieu de 5",
-  faiblesse: "centrer une div. et les escaliers.",
-  phraseCulte: "attends, je relance le serveur",
-  phraseCulte2: "nan mais ça marchait y'a 5 minutes",
-  nombreDOngletsOuverts: Infinity,
-  dormir: undefined,
-};
-```
-
 <p align="center">
   <img src="./assets/capybara-360.svg" alt="tête de capybara en pixels de contributions" width="300" />
   <br>
@@ -127,7 +110,6 @@ Vendredi    ░░░░░░░░░░░░░░░░░░░░    0%  
 ```diff
 + Ajout : Aristide (capybara, mascotte, aucune compétence)
 + Ajout : la capacité de dire "c'est pas un bug, c'est une feature"
-+ Ajout : 14 onglets Stack Overflow ouverts en permanence
 ~ Modif : "je vais me coucher tôt" → déprécié
 ~ Modif : sommeil passé de "nécessaire" à "optionnel"
 - Suppression : ma confiance en Java
