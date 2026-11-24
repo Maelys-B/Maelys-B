@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C08552&center=true&vCenter=true&width=700&lines=Bonjour+humain+%F0%9F%91%8B;Je+transforme+les+bugs+en+d%27autres+bugs;console.log(%22pourquoi%22);%C3%87a+marchait+sur+ma+machine+%F0%9F%A4%B7;git+push+--force+(pardon);Java%3F+Je+connais+pas+ce+monsieur;Ce+README+ne+sert+%C3%A0+rien+et+c'est+voulu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C08552&center=true&vCenter=true&width=700&lines=Je+transforme+les+bugs+en+d%27autres+bugs;%C3%87a+marchait+sur+ma+machine+%F0%9F%A4%B7;git+push+--force+(pardon);Java%3F+Je+connais+pas+ce+monsieur;Ce+README+ne+sert+%C3%A0+rien+et+c'est+voulu" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ const maelys = {
 ```
 
 <p align="center">
-  <img src="./assets/capybara-pixel.svg" alt="tête de capybara en pixels de contributions" width="300" />
+  <img src="./assets/capybara-360.svg" alt="tête de capybara en pixels de contributions" width="300" />
   <br>
   <i>un capybara 100% fait de contributions (bio, local, et il tourne)</i>
 </p>
@@ -101,7 +101,6 @@ const maelys = {
 - [x] 📛 **Nommeuse de variables** — a appelé une variable `truc2Final`
 - [ ] 🎯 **Centreuse de div** — *verrouillé*
 - [ ] 😴 **Dormir avant minuit** — *succès introuvable*
-- [ ] 🧹 **Supprimer ses console.log** — *0,01 % des joueurs l'ont débloqué*
 
 ---
 
@@ -131,7 +130,6 @@ Vendredi    ░░░░░░░░░░░░░░░░░░░░    0%  
 + Ajout : 14 onglets Stack Overflow ouverts en permanence
 ~ Modif : "je vais me coucher tôt" → déprécié
 ~ Modif : sommeil passé de "nécessaire" à "optionnel"
-- Suppression : 47 console.log("ici") (il en reste 312)
 - Suppression : ma confiance en Java
 ! Bug connu : la div n'est toujours pas centrée
 ! Bug connu : explique super bien le code dans sa tête, beaucoup moins à l'oral
