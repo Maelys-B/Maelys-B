@@ -174,6 +174,15 @@ R : La sieste.
 
 ---
 
+## 📫 Me contacter
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maelys-bart/"><img src="https://img.shields.io/badge/LinkedIn-on%20fait%20semblant%20d'être%20sérieux-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Maelys-B"><img src="https://img.shields.io/badge/GitHub-tu%20y%20es%20déjà%20lol-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8c5a3c,50:dab49d,100:c08552&height=120&section=footer&text=ok%20bye%20%F0%9F%8D%8A&fontSize=26&fontColor=ffffff&fontAlignY=70" />
 </p>
