@@ -1,7 +1,7 @@
 <!-- Si tu lis ce commentaire, tu es allé·e trop loin. Fais demi-tour. -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c08552,50:dab49d,100:8c5a3c&height=200&section=header&text=Maelys&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=100%25%20chill%20%E2%80%A2%200%25%20comp%C3%A9tences%20en%20centrage%20de%20div&descAlignY=58&descSize=15" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c08552,50:dab49d,100:8c5a3c&height=200&section=header&text=Maelys&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=100%25%20chill&descAlignY=58&descSize=15" />
 </p>
 
 <p align="center">
@@ -20,7 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=Maelys-B&label=Visiteurs%20perdus&color=c08552&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Niveau%20de%20chill-9000%25-8c5a3c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bugs-%E2%88%9E-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Statut-assise%20dans%20une%20rivi%C3%A8re-2ea44f?style=for-the-badge" />
 </p>
 
 ---
@@ -29,7 +28,7 @@
 
 > Ce README n'est **pas** professionnel.
 > Il n'a **aucun** but.
-> Il a été écrit à une heure où même les pigeons dorment.
+> Il a été écrit à 2h du mat'. Ça se voit.
 > Si vous êtes recruteur·se : bonjour 👋 non.
 
 ---
@@ -68,6 +67,12 @@ const maelys = {
   dormir: undefined,
 };
 ```
+
+<p align="center">
+  <img src="./assets/tete.svg" alt="tête qui tourne" width="180" />
+  <br>
+  <i>ma tête quand le build passe du premier coup</i>
+</p>
 
 ---
 
@@ -138,19 +143,6 @@ Vendredi    ░░░░░░░░░░░░░░░░░░░░    0%  
 ```
 
 </details>
-
----
-
-## 🔮 Horoscope du dev (aujourd'hui)
-
-| Signe | Prédiction |
-|---|---|
-| ♈ Bélier | Ton code compile. Méfie-toi. |
-| ♉ Taureau | Un `undefined` croisera ta route |
-| ♋ Cancer | Tu vas oublier un `await`. Tu vas le chercher 2h. |
-| ♌ Lion | Ton commit s'appellera "fix". Encore. |
-| ♏ Scorpion | Le stagiaire c'est toi |
-| ♓ Poissons | Ton `node_modules` pèse plus lourd que toi |
 
 ---
 
