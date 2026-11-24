@@ -5,7 +5,15 @@
 </p>
 
 <p align="center">
+  <img src="./assets/wordart.svg" alt="BIENVENUE SUR MON PROFIL" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C08552&center=true&vCenter=true&width=700&lines=Bonjour+humain+%F0%9F%91%8B;Je+transforme+les+bugs+en+d%27autres+bugs;console.log(%22pourquoi%22);%C3%87a+marchait+sur+ma+machine+%F0%9F%A4%B7;git+push+--force+(pardon);Java%3F+Je+connais+pas+ce+monsieur;Ce+README+ne+sert+%C3%A0+rien+et+c'est+voulu" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="./assets/construction.svg" alt="profil en construction" />
 </p>
 
 <p align="center">
@@ -70,7 +78,7 @@ const maelys = {
 | 🧠 Deux neurones | 🌈 Mythique | Ils se battent pour la 3e place |
 | ⚛️ React + TypeScript | 🟣 Épique | Les erreurs TypeScript font 40 lignes et je les lis jamais |
 | 🟢 Node.js + Express | 🔵 Rare | Il ne me juge pas. Lui. |
-| 🐘 PHP | 🟢 Commun | J'ai vu des choses. Des choses en PHP. |
+| 🐘 PHP + WordPress/Elementor | 🟢 Commun | J'ai déjà vu des choses. Des choses avec Elementor. |
 | 🐍 Python | 🔵 Rare | Indentation 1 – Maelys 0 |
 | 🫠 Java | ⚪ Cassé | On se croise, on se salue, on se comprend pas |
 | 🍊 Une orange | 🟡 Légendaire | Aucune utilité. Je la garde quand même. |
@@ -190,6 +198,14 @@ R : La sieste.
 <p align="center"><i>(il a faim, poussez du code svp)</i></p>
 
 ---
+
+<p align="center">
+  <img src="./assets/counter.svg" alt="compteur de visiteurs" />
+</p>
+
+<p align="center">
+  <img src="./assets/marquee.svg" alt="merci de votre visite" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8c5a3c,50:dab49d,100:c08552&height=120&section=footer&text=ok%20bye%20%F0%9F%8D%8A&fontSize=26&fontColor=ffffff&fontAlignY=70" />
