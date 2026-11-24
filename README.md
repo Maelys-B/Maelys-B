@@ -13,10 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="./assets/construction.svg" alt="profil en construction" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maelys-B&label=Visiteurs%20perdus&color=c08552&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Niveau%20de%20chill-9000%25-8c5a3c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bugs-%E2%88%9E-red?style=for-the-badge" />
@@ -190,14 +186,6 @@ R : La sieste.
 <p align="center"><i>(il a faim, poussez du code svp)</i></p>
 
 ---
-
-<p align="center">
-  <img src="./assets/counter.svg" alt="compteur de visiteurs" />
-</p>
-
-<p align="center">
-  <img src="./assets/marquee.svg" alt="merci de votre visite" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8c5a3c,50:dab49d,100:c08552&height=120&section=footer&text=ok%20bye%20%F0%9F%8D%8A&fontSize=26&fontColor=ffffff&fontAlignY=70" />
