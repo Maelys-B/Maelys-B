@@ -69,9 +69,9 @@ const maelys = {
 ```
 
 <p align="center">
-  <img src="./assets/tete.svg" alt="tête qui tourne" width="180" />
+  <img src="./assets/tete.svg" alt="tête de capybara en pixels de contributions" width="260" />
   <br>
-  <i>ma tête quand le build passe du premier coup</i>
+  <i>un capybara 100% fait de contributions (bio, local, et il tourne)</i>
 </p>
 
 ---
