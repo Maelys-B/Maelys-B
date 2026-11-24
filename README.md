@@ -1,15 +1,15 @@
 <!-- Si tu lis ce commentaire, tu es allé·e trop loin. Fais demi-tour. -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c08552,50:dab49d,100:8c5a3c&height=200&section=header&text=Maelys&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=capybara%20certifi%C3%A9e%20%E2%80%A2%20z%C3%A9ro%20caf%C3%A9%20%E2%80%A2%20100%25%20chill%20%E2%80%A2%200%25%20comp%C3%A9tences%20en%20centrage%20de%20div&descAlignY=58&descSize=15" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c08552,50:dab49d,100:8c5a3c&height=200&section=header&text=Maelys&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=z%C3%A9ro%20caf%C3%A9%20%E2%80%A2%20100%25%20chill%20%E2%80%A2%200%25%20comp%C3%A9tences%20en%20centrage%20de%20div&descAlignY=58&descSize=15" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C08552&center=true&vCenter=true&width=700&lines=Bonjour+je+suis+un+capybara+d%C3%A9guis%C3%A9+en+dev;Le+capybara+ne+panique+jamais.+Moi+si.;console.log(%22pourquoi%22);%C3%87a+marchait+sur+ma+machine+%F0%9F%A4%B7;git+push+--force+(pardon);Java%3F+Je+connais+pas+ce+monsieur;Ce+README+ne+sert+%C3%A0+rien+et+c'est+voulu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C08552&center=true&vCenter=true&width=700&lines=Bonjour+humain+%F0%9F%91%8B;Je+transforme+les+bugs+en+d%27autres+bugs;console.log(%22pourquoi%22);%C3%87a+marchait+sur+ma+machine+%F0%9F%A4%B7;git+push+--force+(pardon);Java%3F+Je+connais+pas+ce+monsieur;Ce+README+ne+sert+%C3%A0+rien+et+c'est+voulu" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maelys-B&label=Capybaras%20pass%C3%A9s%20par%20ici&color=c08552&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Maelys-B&label=Visiteurs%20perdus&color=c08552&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Niveau%20de%20chill-9000%25-8c5a3c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Caf%C3%A9-0%25%20(je%20tourne%20au%20chaos)-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bugs-%E2%88%9E-red?style=for-the-badge" />
@@ -22,12 +22,12 @@
 
 > Ce README n'est **pas** professionnel.
 > Il n'a **aucun** but.
-> Il a été écrit à une heure où même les capybaras dorment.
+> Il a été écrit à une heure où même les pigeons dorment.
 > Si vous êtes recruteur·se : bonjour 👋 non.
 
 ---
 
-## 🧘 Voici Gérard
+## 🧘 Voici Aristide
 
 ```text
           _______
@@ -39,9 +39,9 @@
          |_|       |_|
 ```
 
-Gérard est mon capybara de soutien émotionnel.
+Aristide est mon capybara de soutien émotionnel. Oui, il s'appelle Aristide. Non, il n'a pas choisi.
 Il review toutes mes pull requests. Il approuve tout. Il ne lit rien.
-Gérard a déjà mergé en prod un vendredi à 17h59. Gérard n'a aucun regret.
+Aristide a déjà mergé en prod un vendredi à 17h59. Aristide n'a aucun regret.
 
 ---
 
@@ -49,8 +49,8 @@ Gérard a déjà mergé en prod un vendredi à 17h59. Gérard n'a aucun regret.
 
 ```js
 const maelys = {
-  espèce: "capybara (non confirmé par la science)",
-  habitat: "un bain chaud, idéalement avec une orange sur la tête 🍊",
+  espèce: "humaine (non confirmé par la science)",
+  habitat: "sous un plaid, à 2h du mat, avec 47 onglets ouverts",
   carburant: "pas de café. juste du chaos et de la pure audace",
   languesMachines: ["JavaScript", "TypeScript", "PHP", "SQL", "Python", "Java (on se vouvoie)"],
   superPouvoir: "trouver un point-virgule manquant en 4h au lieu de 5",
@@ -68,13 +68,13 @@ const maelys = {
 
 | Objet | Rareté | Description |
 |---|---|---|
-| 🦫 Capybara intérieur | 🌈 Mythique | Reste calme pendant que le build brûle |
+| 🧠 Deux neurones | 🌈 Mythique | Ils se battent pour la 3e place |
 | ⚛️ React + TypeScript | 🟣 Épique | Les erreurs TypeScript font 40 lignes et je les lis jamais |
 | 🟢 Node.js + Express | 🔵 Rare | Il ne me juge pas. Lui. |
 | 🐘 PHP | 🟢 Commun | J'ai vu des choses. Des choses en PHP. |
 | 🐍 Python | 🔵 Rare | Indentation 1 – Maelys 0 |
 | ☕ Java | ⚪ Cassé | Ironique pour quelqu'un qui boit pas de café |
-| 🍊 Une orange | 🟡 Légendaire | Se pose sur la tête. Aucune autre utilité. |
+| 🍊 Une orange | 🟡 Légendaire | Aucune utilité. Je la garde quand même. |
 | 🧦 Chaussette seule | 🟤 Maudit | Sa jumelle est partie avec mes `node_modules` |
 
 <p align="center">
@@ -88,7 +88,7 @@ const maelys = {
 - [x] 🥇 **Hello World** — a affiché du texte. Incroyable.
 - [x] 🐛 **Entomologiste** — a créé plus de bugs que de features
 - [x] 🔥 **Pyromane** — a cassé la prod d'un projet qui n'avait pas de prod
-- [x] 🦫 **Capybara Mode** — est restée calme devant une erreur de 300 lignes (en pleurant intérieurement)
+- [x] 🧊 **Sang-froid** — est restée calme devant une erreur de 300 lignes (en pleurant intérieurement)
 - [x] 🪦 **Nécromancienne** — a ressuscité un projet abandonné depuis 3 jours
 - [x] 📛 **Nommeuse de variables** — a appelé une variable `truc2Final`
 - [ ] 🎯 **Centreuse de div** — *verrouillé*
@@ -103,8 +103,8 @@ const maelys = {
 Lundi       ████████████████████  100%  "cette semaine je suis productive"
 Mardi       █████████████░░░░░░░   65%  "ok j'ai eu un bug"
 Mercredi    ██████░░░░░░░░░░░░░░   30%  "le bug était un point-virgule"
-Jeudi       ██░░░░░░░░░░░░░░░░░░   10%  *regarde des vidéos de capybaras*
-Vendredi    ░░░░░░░░░░░░░░░░░░░░    0%  *regarde encore des vidéos de capybaras*
+Jeudi       ██░░░░░░░░░░░░░░░░░░   10%  *réorganise ses dossiers au lieu de coder*
+Vendredi    ░░░░░░░░░░░░░░░░░░░░    0%  *renomme des variables pour le plaisir*
 2h du mat   ████████████████████████████ 140%  *code tout le projet d'un coup*
 ```
 
@@ -118,7 +118,7 @@ Vendredi    ░░░░░░░░░░░░░░░░░░░░    0%  
 <br>
 
 ```diff
-+ Ajout : un capybara nommé Gérard
++ Ajout : Aristide (capybara, mascotte, aucune compétence)
 + Ajout : la capacité de dire "c'est pas un bug, c'est une feature"
 + Ajout : 14 onglets Stack Overflow ouverts en permanence
 ~ Modif : "je vais me coucher tôt" → déprécié
@@ -128,7 +128,7 @@ Vendredi    ░░░░░░░░░░░░░░░░░░░░    0%  
 - Suppression : le café (il n'a jamais existé)
 ! Bug connu : la div n'est toujours pas centrée
 ! Bug connu : explique super bien le code dans sa tête, beaucoup moins à l'oral
-! Bug connu : Gérard a accès en écriture au repo
+! Bug connu : Aristide a accès en écriture au repo
 ```
 
 </details>
@@ -144,7 +144,7 @@ Vendredi    ░░░░░░░░░░░░░░░░░░░░    0%  
 | ♋ Cancer | Tu vas oublier un `await`. Tu vas le chercher 2h. |
 | ♌ Lion | Ton commit s'appellera "fix". Encore. |
 | ♏ Scorpion | Le stagiaire c'est toi |
-| 🦫 Capybara | Tout va bien. Tout va toujours bien. |
+| ♓ Poissons | Ton `node_modules` pèse plus lourd que toi |
 
 ---
 
@@ -154,10 +154,10 @@ Vendredi    ░░░░░░░░░░░░░░░░░░░░    0%  
 R : Je ne sais pas, et je ne touche plus à rien.
 
 **Q : Pourquoi ton code ne marche pas ?**
-R : Je ne sais pas non plus. J'ai une théorie qui implique Mercure rétrograde et Gérard.
+R : Je ne sais pas non plus. J'ai une théorie qui implique Mercure rétrograde.
 
-**Q : Pourquoi un capybara ?**
-R : Pourquoi pas un capybara ?
+**Q : Tu dors quand ?**
+R : Question suivante.
 
 **Q : Tabs ou espaces ?**
 R : Prettier décide. Je ne suis qu'une messagère.
@@ -167,7 +167,7 @@ R : La sieste.
 
 ---
 
-## 📊 Stats (ne jugez pas, Gérard s'en occupe déjà)
+## 📊 Stats (ne jugez pas)
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maelys-B&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
@@ -189,7 +189,7 @@ R : La sieste.
   </picture>
 </p>
 
-<p align="center"><i>(Gérard a essayé de l'arrêter. Gérard a échoué.)</i></p>
+<p align="center"><i>(il a faim, poussez du code svp)</i></p>
 
 ---
 
@@ -197,4 +197,4 @@ R : La sieste.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8c5a3c,50:dab49d,100:c08552&height=120&section=footer&text=ok%20bye%20%F0%9F%8D%8A&fontSize=26&fontColor=ffffff&fontAlignY=70" />
 </p>
 
-<p align="center"><sub>Ce README a été testé sur ma machine. Et validé par Gérard. ✔️</sub></p>
+<p align="center"><sub>Ce README a été testé sur ma machine. Et validé par Aristide. ✔️</sub></p>
