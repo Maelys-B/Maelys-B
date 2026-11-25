@@ -8,16 +8,6 @@
   <img src="./assets/wordart.svg" alt="BIENVENUE SUR MON PROFIL" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C08552&center=true&vCenter=true&width=700&lines=Je+transforme+les+bugs+en+d%27autres+bugs;%C3%87a+marchait+sur+ma+machine+%F0%9F%A4%B7;git+push+--force+(pardon);Java%3F+Je+connais+pas+ce+monsieur;Ce+README+ne+sert+%C3%A0+rien+et+c'est+voulu" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maelys-B&label=Visiteurs%20perdus&color=c08552&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Niveau%20de%20chill-9000%25-8c5a3c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bugs-%E2%88%9E-red?style=for-the-badge" />
-</p>
-
 ---
 
 ## ⚠️ Avertissement
